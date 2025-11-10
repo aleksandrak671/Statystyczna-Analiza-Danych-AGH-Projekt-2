@@ -1,1 +1,1 @@
-# -Statystyczna-Analiza-Danych-AGH-Projekt-2
+# Statystyczna-Analiza-Danych-AGH-Projekt-2
