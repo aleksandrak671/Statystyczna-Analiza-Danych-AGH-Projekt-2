@@ -1,6 +1,6 @@
 ---
 title: "R projekt 2"
-author: "Klaudia Rajca, Aleksandra Konopelska"
+author: "Aleksandra Konopelska"
 date: "2025-11-24"
 output: html_document
 ---
@@ -1135,6 +1135,7 @@ Czyli:
   - **klasteryzacja** krajów na bazie PC1–PC2 lub MDS,  
   - analiza osobno w regionach,  
   - dodanie nowych zmiennych (np. CO₂, HDI), porównanie wyników.
+
 
 
 
